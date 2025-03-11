@@ -368,7 +368,7 @@ Augmented Intelligence is human-centric AI, designed to enhance human abilities 
 
 Many industries prefer AIg over AI because it maintains human oversight while leveraging AI’s power.
 
-Would you like more real-world examples of each?
+
 
 
 
